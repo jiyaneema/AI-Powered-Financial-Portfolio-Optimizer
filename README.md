@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 # AI-Powered Financial Portfolio Optimizer
 
 ## Overview
 
 =======
 # AI-Powered-Financial-Portfolio-Optimizer
->>>>>>> 3292552def37c6c6bfa50c96b309fb5da2a9fb9c
+
 This project is a full-stack web application that helps users optimize their financial portfolios using AI and machine learning. It provides:
 
 - **Frontend:** React (with Tailwind CSS) for a modern, responsive UI.
@@ -36,11 +36,3 @@ cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
-
-<<<<<<< HEAD
----
-
-This project is in early development. Contributions and feedback are welcome! 
-=======
->>>>>>> 3292552def37c6c6bfa50c96b309fb5da2a9fb9c
-
