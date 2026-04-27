@@ -1,9 +1,4 @@
 
-# AI-Powered Financial Portfolio Optimizer
-
-## Overview
-
-=======
 # AI-Powered-Financial-Portfolio-Optimizer
 
 This project is a full-stack web application that helps users optimize their financial portfolios using AI and machine learning. It provides:
